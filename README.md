@@ -14,7 +14,7 @@
 ![WxMaxima](https://img.shields.io/badge/WxMaxima-PRINCIPIANTE-FFC107?style=for-the-badge&logo=maxima&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-PRINCIPIANTE-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-PRINCIPIANTE-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio -PRINCIPIANTE-3776AB?style=for-the-badge&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-PRINCIPIANTE-3776AB?style=for-the-badge&logo=android-studio&logoColor=white)
 ---
 
 
