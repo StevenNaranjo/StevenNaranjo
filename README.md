@@ -51,7 +51,7 @@
 - 🎮 **Videojuegos**: Disfruto de los videojuegos. Mi favorito por el momento Hollow Knigth
 - 🏞️ **Naturaleza**: Me gusta practicar senderismo.
 - 🎨 **Arte Digital**: Experimento con la creación de arte digital, el diseño gráfico, la animacion y el modelado
--🏍️ **Motos**: Me gustan las motos ya sean de enduro, cross o superdeportivas
+- 🏍️ **Motos**: Me gustan las motos ya sean de enduro, cross o superdeportivas
 
 ---
 
