@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hola! Mi nombre es Alex Naranjo 👋
+### Soy estudiante de Ingeniería en Computación
 
+Comencé a estudiar esta carrera en el **2023** en el **[Tecnologico de Costa Rica](https://tec.cr.ac)**
 <!--
 **StevenNaranjo/StevenNaranjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
