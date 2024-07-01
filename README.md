@@ -1,10 +1,8 @@
 ## **Hola! Mi nombre es Alex Naranjo 👋**
-### Soy estudiante de Ingeniería en Computación
+---
 
-Comencé a estudiar esta carrera en el **2023** en el **[Tecnologico de Costa Rica](https://www.tec.ac.cr)**
-He cursado ya dos años de carrera
 
-## Poseo conocimiento en:
+## **📚 Poseo Conocimiento en:**
 
 ![Python](https://img.shields.io/badge/Python-PRINCIPIANTE-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-PRINCIPIANTE-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -17,7 +15,10 @@ He cursado ya dos años de carrera
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-PRINCIPIANTE-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-PRINCIPIANTE-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Estoy Aprendiendo:
+---
+
+
+## **📘 Estoy Aprendiendo:**
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,8 +29,61 @@ He cursado ya dos años de carrera
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-5D4F8B?style=for-the-badge&logo=figma&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
+---
+## **🚀 Proyectos Destacados**
 
-## **Encuéntrame en:**
+### Proyecto 1: [Nombre del Proyecto](https://github.com/tuusuario/proyecto1)
+**Descripción:** Una breve descripción de este proyecto. ¿Qué hace? ¿Qué tecnologías se usaron? ¿Qué desafíos superaste?
+
+### Proyecto 2: [Nombre del Proyecto](https://github.com/tuusuario/proyecto2)
+**Descripción:** Una breve descripción de este proyecto. ¿Qué hace? ¿Qué tecnologías se usaron? ¿Qué desafíos superaste?
+
+### Proyecto 3: [Nombre del Proyecto](https://github.com/tuusuario/proyecto3)
+**Descripción:** Una breve descripción de este proyecto. ¿Qué hace? ¿Qué tecnologías se usaron? ¿Qué desafíos superaste?
+
+---
+
+## **💡 Intereses Personales**
+
+- 📖 **Lectura**: Me gusta leer libros de ciencia, ciencia-ficción y fantasía.
+- 🎮 **Videojuegos**: Disfruto de los juegos de estrategia y aventuras. Mi favorito por el momento Hollow Knigth
+- 🏞️ **Naturaleza**: Me gusta practicar senderismo.
+- 🎨 **Arte Digital**: Experimento con la creación de arte digital, el diseño gráfico, la animacion y el modelado
+
+---
+
+## **🛠️ Experiencia Laboral y Prácticas**
+> *Por el momento no hay mucho que mostrar acá*
+---
+
+## **🎓 Educación**
+
+- **Ingeniería en Computación**, [Tecnológico de Costa Rica](https://www.tec.ac.cr)
+  - Comencé en 2023
+  - Cursos Relevantes: Programación Orientada A Objetos, Analisis de Algoritmos y Estructuras de Datos, Bases de Datos, Requerimientos del Software
+
+---
+
+## **🌟 Contribuciones Open Source**
+
+> *Por el momento no hay mucho que mostrar acá*
+
+---
+
+## **✍️ Blogs o Publicaciones**
+
+> *Trabajando en ello*
+
+---
+
+
+## 📜 Certificaciones
+
+> *Pues aún no tengo ninguna, ¡pero espero pronto tener varias!*
+
+---
+
+## **🌐 Encuéntrame en:**
 
 
 [![Twitter](https://img.shields.io/badge/Twitter-@SoyAlexNaranjo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/SoyAlexNaranjo)
@@ -40,21 +94,3 @@ He cursado ya dos años de carrera
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex_Naranjo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alex-naranjo-86989a236)
 
-<!--
-**StevenNaranjo/StevenNaranjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
-
-Trabajar en mi web
--->
