@@ -32,6 +32,8 @@
 ---
 ## **🚀 Proyectos Destacados**
 
+> *Trabajando en ello*
+<!--
 ### Proyecto 1: [Nombre del Proyecto](https://github.com/tuusuario/proyecto1)
 **Descripción:** Una breve descripción de este proyecto. ¿Qué hace? ¿Qué tecnologías se usaron? ¿Qué desafíos superaste?
 
@@ -40,7 +42,7 @@
 
 ### Proyecto 3: [Nombre del Proyecto](https://github.com/tuusuario/proyecto3)
 **Descripción:** Una breve descripción de este proyecto. ¿Qué hace? ¿Qué tecnologías se usaron? ¿Qué desafíos superaste?
-
+-->
 ---
 
 ## **💡 Intereses Personales**
