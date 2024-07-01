@@ -10,9 +10,9 @@ Comencé a estudiar esta carrera en el **2023** en el **[Tecnologico de Costa Ri
 
 [![Instagram](https://img.shields.io/badge/Instagram-@alex__naranjo__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/alex_naranjo_)
 
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/share/3S8KmuFKtt1p1ED3/?mibextid=qi2Omg)
+[![Facebook](https://img.shields.io/badge/Facebook-Alex_Naranjo-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/share/3S8KmuFKtt1p1ED3/?mibextid=qi2Omg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex_Naranjo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alex-naranjo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex_Naranjo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alex-naranjo-86989a236)
 
 <!--
 **StevenNaranjo/StevenNaranjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
