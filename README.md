@@ -4,19 +4,19 @@
 
 ## **📚 Poseo Conocimiento en:**
 
-#### 💻 Lenguajes de Programación
+### 💻 Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-PRINCIPIANTE-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-PRINCIPIANTE-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-PRINCIPIANTE-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![WxMaxima](https://img.shields.io/badge/WxMaxima-PRINCIPIANTE-FFC107?style=for-the-badge&logo=maxima&logoColor=black)
-#### 🛠️ Herramientas
+### 🛠️ Herramientas
 ![Git](https://img.shields.io/badge/Git-PRINCIPIANTE-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-PRINCIPIANTE-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-PRINCIPIANTE-3776AB?style=for-the-badge&logo=android-studio&logoColor=white)
-#### 🗄️ Bases de Datos
+### 🗄️ Bases de Datos
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-PRINCIPIANTE-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-PRINCIPIANTE-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-#### 📐 Diseño y Estructuras
+### 📐 Diseño y Estructuras
 ![Patrones de Diseño](https://img.shields.io/badge/Patrones%20de%20Dise%C3%B1o-PRINCIPIANTE-4CAF50?style=for-the-badge&logo=pattern&logoColor=white)
 ![Estructuras de Datos](https://img.shields.io/badge/Estructuras%20de%20Datos-PRINCIPIANTE-FF6F00?style=for-the-badge&logo=data&logoColor=white)
 
