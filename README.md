@@ -89,7 +89,7 @@
 ## **🌐 Encuéntrame en:**
 
 
-[![Twitter](https://img.shields.io/badge/Twitter-@Alx__Naranjo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/SoyAlexNaranjo)
+[![Twitter](https://img.shields.io/badge/Twitter-@Alx__Naranjo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/Alx_Naranjo)
 
 [![Instagram](https://img.shields.io/badge/Instagram-@alex__naranjo__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/alex_naranjo_)
 
