@@ -58,7 +58,7 @@
 - 📖 **Lectura**: Me gusta leer libros de ciencia, ciencia-ficción y fantasía.
 - 🎮 **Videojuegos**: Disfruto de los videojuegos. Mi favorito por el momento Hollow Knigth
 - 🏞️ **Naturaleza**: Me gusta practicar senderismo.
-- 🎨 **Arte Digital**: Experimento con la creación de arte digital, el diseño gráfico, la animacion y el modelado
+- 🎨 **Arte**: Experimento con la creación de arte, el diseño gráfico, la animacion y el modelado 3D
 - 🏍️ **Motos**: Me gustan las motos ya sean de enduro, cross o superdeportivas
 
 ---
@@ -71,7 +71,7 @@
 
 - **Ingeniería en Computación**, [Tecnológico de Costa Rica](https://www.tec.ac.cr)
   - Comencé en 2023
-  - Cursos Relevantes: Programación Orientada A Objetos, Analisis de Algoritmos y Estructuras de Datos, Bases de Datos, Requerimientos del Software
+  - Cursos Relevantes: Programación Orientada A Objetos, Analisis de Algoritmos y Estructuras de Datos, Bases de Datos, Requerimientos del Software, Diseño de software
 
 ---
 
@@ -100,8 +100,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@Alx__Naranjo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/Alx_Naranjo)
 
 [![Instagram](https://img.shields.io/badge/Instagram-@alex__naranjo__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/alex_naranjo_)
-
-[![Facebook](https://img.shields.io/badge/Facebook-Alex_Naranjo-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/share/3S8KmuFKtt1p1ED3/?mibextid=qi2Omg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex_Naranjo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alex-naranjo-86989a236)
 
